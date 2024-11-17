@@ -1,0 +1,45 @@
+# Node.js dependencies
+/node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# dotenv environment variables file
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build output
+/dist
+/build
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Next.js build
+/.next
+
+# IDEs and editors
+/.idea
+/.vscode
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
+
+# Coverage directory for test reports
+/coverage
+
+# NPM package lock file (Optional, you can keep it if you want to track exact dependencies)
+/package-lock.json
+/yarn.lock
